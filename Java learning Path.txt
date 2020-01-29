@@ -1,0 +1,33 @@
+ops concept
+construct
+overloading
+ovveriding
+exception
+threding(no of threading creating-2, life cyclic, deadloack, syncronization)
+collection --hasmap, hasmiapping etc
+
+Spring --> mvc, Annotation,depndiy injunctin,ioc.
+Hibernate --> benift over jdbc 
+Spring advantege
+Spring boot
+
+--------------------------------
+Points to note:
+
+1.     The interview process is progressive and may take a minimum of 4 to 5 hours to complete. Request you to take out time accordingly
+
+2.     While we will try our best to expedite the process, we anticipate some waiting time in between the various levels of discussion and would appreciate your cooperation
+
+3.     Parking to be self-managed if commuting by own vehicle
+
+Required Skills
+
+- IT development experience in Java, Spring, Multithreading, SQL Development experience, AngularJS or any other UI framework, Linux
+
+ -Experience in Bigdata, Kafka, Spark, Cloud and Containerisation will be good to have skills
+
+- Expertise in building scalable solutions, application performance tuning, debugging and troubleshooting complex issues and identifying problem root cause
+- Preferably experience working in captive or product development working with global teams
+ -Prior experience building solutions for investment banking or financial domain will be an added advantage.
+
+
